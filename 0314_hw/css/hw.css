@@ -57,10 +57,7 @@ n {
     font-weight: 400;
     letter-spacing: 1px;
     font-family: PMingLiU;
-    /*text-align: left;*/
-
-    text-align: justify;
-    text-justify: inter-word;
+    text-align: center;
 }
 
 .textjustify {
